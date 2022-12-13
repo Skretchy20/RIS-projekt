@@ -24,6 +24,8 @@ public class Dieta {
     private int kalorije;
 
     /*
+    *
+    * /repozetorij #ISZZP123-2 DONE Time 1h
     private double proteini;
     private boolean ogljikovi_hidrati;
     private double mascobe;
