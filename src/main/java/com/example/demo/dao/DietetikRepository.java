@@ -1,6 +1,5 @@
 package com.example.demo.dao;
 import com.example.demo.model.Dietetik;
-import com.example.demo.model.Hisa;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 

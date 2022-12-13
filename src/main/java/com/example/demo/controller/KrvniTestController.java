@@ -3,7 +3,6 @@ package com.example.demo.controller;
 import com.example.demo.dao.DietetikRepository;
 import com.example.demo.dao.KrvniTestRepository;
 import com.example.demo.dao.ProfilRepository;
-import com.example.demo.model.Hisa;
 import com.example.demo.model.KrvniTest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

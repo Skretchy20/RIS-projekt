@@ -5,7 +5,6 @@ import com.example.demo.dao.DietetikRepository;
 import com.example.demo.dao.KrvniTestRepository;
 import com.example.demo.dao.RegistriranUporabnikRepository;
 import com.example.demo.model.Dietetik;
-import com.example.demo.model.Hisa;
 import com.example.demo.model.KrvniTest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -87,29 +86,6 @@ public class DietetikController {
 
 
 
-
-
-
-
-
-
-//    // POST requests
-//    @PostMapping
-//    public Dietetik addDietetik(@RequestBody Dietetik dietetik) { return dietetikDao.save(dietetik);}
-
-
-
-//    @PutMapping("/{dietetikId}/krvniTesti/{krvniTestid}")
-//    Dietetik dodajDietetikuKrvniTest(
-//            @PathVariable Long dietetikId,
-//            @PathVariable Long krvniTestId
-//    ){
-//        // getOne more bit methoda v kateri je long id
-//        Dietetik dietetik = dietetikDao.findById(dietetikId).get();
-//        KrvniTest krvniTest = krvniTestDao.findById(krvniTestId).get();
-//        dietetik.dodajKrvniTest(krvniTest);
-//        return dietetikDao.save(dietetik);
-//    }
 
 
 }
