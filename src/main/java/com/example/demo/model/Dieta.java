@@ -26,7 +26,6 @@ public class Dieta {
     /*
     *
     *
-    *
     * /repozetorij #ISZZP123-2 DONE Time 1h
     private double proteini;
     private boolean ogljikovi_hidrati;
